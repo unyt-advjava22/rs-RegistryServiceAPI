@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/rest/CourseService.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/db/entities/StudentCoursePK.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/model/Transcript.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/model/GradeData.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/db/entities/Semester.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/conf/persistence.xml</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/model/StudentData.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/db/entities/StudentCourse.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/db/entities/Course.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/db/entities/Student.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/rest/DepartmentService.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/model/DepartmentData.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/rest/ApplicationConfig.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/model/CourseData.java</file>
+            <file>file:/D:/Academic/UNYT/courses/22-3%20Fall2022/advjava/code/home/rest/rs-RegistryServiceAPI/src/java/com/eltonb/uni/rest/GradeService.java</file>
+        </group>
+    </open-files>
+</project-private>
